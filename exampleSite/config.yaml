@@ -126,7 +126,7 @@ params:
     content: "A passionate software engineer. I tend to make use of modern technologies to build applications that looks great, feels fantastic, and functions correctly."
     image: "/images/ahram.svg"
     bottomImage:
-      enable: false
+      enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
