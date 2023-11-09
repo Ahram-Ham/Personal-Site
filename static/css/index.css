@@ -114,8 +114,6 @@ header .navbar.animate {
     padding: 0;
     border: 3px solid var(--secondary-color);
     border-radius: 1rem;
-    width: 600px;
-    height: auto;
 }
 
 #hero .image.animate img {
