@@ -53,7 +53,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "Ahram Ham"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "fav.ico"
@@ -124,7 +124,7 @@ params:
     title: "Ahram."
     subtitle: "I build things for the web"
     content: "A passionate software engineer. I tend to make use of modern technologies to build applications that looks great, feels fantastic, and functions correctly."
-    image: "ahram.svg"
+    image: "/images/ahram.svg"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -145,7 +145,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "images/me.ico"
+    image: "images/me.png"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
 
