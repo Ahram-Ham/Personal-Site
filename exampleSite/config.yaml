@@ -123,7 +123,7 @@ params:
     intro: "Hi, my name is"
     title: "Ahram."
     subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "A passionate software engineer. I tend to make use of modern technologies to build applications that looks great, feels fantastic, and functions correctly."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -131,7 +131,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://drive.google.com/file/d/1zoNvzIZp-lsx08MdBRH2n8qJTOOOr7FU/view?usp=drive_link"
       download: true
       newPage: false
     socialLinks:
@@ -166,7 +166,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - job: "Senior Software Developer"
@@ -237,7 +237,7 @@ params:
     items:
       - title: "Bachelor of Science in Computer Science"
         school:
-          name: "University of California, Berkeley"
+          name: "University of California, Davis"
           url: "https://www.ucdavis.edu/"
         date: "2021 - 2023"
         GPA: "3.6 out of 4.0"
