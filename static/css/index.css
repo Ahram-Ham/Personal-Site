@@ -73,7 +73,7 @@ header .navbar.animate {
 
 #hero {
     min-height: 100vh;
-    line-height: 2rem;
+    line-height: 4rem;
     max-width: 100%;
 }
 #hero .content.animate {
