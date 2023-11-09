@@ -124,7 +124,7 @@ params:
     title: "Ahram."
     subtitle: "I build things for the web"
     content: "A passionate software engineer. I tend to make use of modern technologies to build applications that looks great, feels fantastic, and functions correctly."
-    image: "images/ahram.svg"
+    image: "ahram.svg"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
