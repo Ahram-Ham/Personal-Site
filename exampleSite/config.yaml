@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://ahramham.netlify.app/"
 languageCode: "en-us"
 title: "Ahram Ham"
 theme: hugo-profile
@@ -69,7 +69,7 @@ params:
   # cloudinary_cloud_name: "YOUR_CLOUD_NAME"
   
   # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
-  mathjax: true
+  mathjax: false
 
   # Whether the fade animations on the home page will be enabled
   animate: true
@@ -124,9 +124,9 @@ params:
     title: "Ahram."
     subtitle: "I build things for the web"
     content: "A passionate software engineer. I tend to make use of modern technologies to build applications that looks great, feels fantastic, and functions correctly."
-    image: "/images/ahram.png"
+    image: "/images/ahram.svg"
     bottomImage:
-      enable: false
+      enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
