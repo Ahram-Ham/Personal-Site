@@ -24,16 +24,6 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
-      weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -308,9 +298,8 @@ params:
       enable: false
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      facebook: https://facebook.com
+      github: https://github.com/Ahram-Ham
+      linkedin: https://www.linkedin.com/in/ahram-ham/
 
   # List pages like blogs and posts
   listPages:
