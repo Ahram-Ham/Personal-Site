@@ -274,25 +274,22 @@ params:
           - icon: fab fa-github
             url: https://github.com/Ahram-Ham/JobScamDetectorWebApp
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+      - title: AI Climber
+        content: A Python mountain climbing program that simulates different A* heuristics.
+        image: /images/projects/mountain.jpg
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Python"
+          - "A*"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/Ahram-Ham/AI-Climber
 
   #Contact
   contact:
     enable: true
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    email: ahramham2001@gmail.com
     btnName: Mail me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
